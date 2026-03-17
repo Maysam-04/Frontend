@@ -79,10 +79,6 @@ Food = 6 OMR × days
 Hotel depends on budget tier.
 
 
-Running the Project
 
-npm install
-
-npm run dev
 
 
