@@ -1,7 +1,7 @@
  Visit Oman – Smart Travel Planner
 
 A frontend-only tourism discovery and itinerary generation platform
-built using Next.js and TypeScript.
+built using Next.js.
 
 The platform allows users to discover destinations across Oman
 and generate a realistic multi-day travel itinerary entirely in the browser.
